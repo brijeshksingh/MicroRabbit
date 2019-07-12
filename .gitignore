@@ -3,3 +3,19 @@
 ################################################################################
 
 /MicroRabbit/MicroRabbit.Domain.Core/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Banking.Api/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Banking.Api/obj
+/MicroRabbit/MicroRabbit.Banking.Application/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Banking.Application/obj
+/MicroRabbit/MicroRabbit.Banking.Data/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Banking.Data/obj
+/MicroRabbit/MicroRabbit.Banking.Domain/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Banking.Domain/obj
+/MicroRabbit/MicroRabbit.Domain.Core/obj
+/MicroRabbit/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Infra.Bus/obj
+/MicroRabbit/MicroRabbit.Infra.Ioc/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Infra.Ioc/obj
+/MicroRabbit/.vs/config
+/MicroRabbit/.vs/MicroRabbit/v15/Server/sqlite3
