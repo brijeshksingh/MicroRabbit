@@ -19,3 +19,11 @@
 /MicroRabbit/MicroRabbit.Infra.Ioc/obj
 /MicroRabbit/.vs/config
 /MicroRabbit/.vs/MicroRabbit/v15/Server/sqlite3
+/MicroRabbit/MicroRabbit.Transfer.Api/obj
+/MicroRabbit/MicroRabbit.Transfer.Api/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Transfer.Application/obj
+/MicroRabbit/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Transfer.Data/obj
+/MicroRabbit/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp2.2
+/MicroRabbit/MicroRabbit.Transfer.Domain/obj
